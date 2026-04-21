@@ -70,7 +70,7 @@ export default function Intro() {
         <span className="underline">React, Angular, Next JS, Node, JavaScript, TypeScript, HTMLand CSS.  {" "} </span>
         I also handle Full-Stack Developer roles with MEAN stack (MongoDB, Express, Angular, NodeJS) or MERN stack (MongoDB, Express, React, NodeJS)  {" "}
         <span className="underline">
-          Node JS
+          Additionally, I am certified in Cloud technologies such as AWS and Azure as well.
         </span>
         .
       </motion.h1>
