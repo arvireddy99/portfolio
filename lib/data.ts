@@ -35,10 +35,10 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Senior Software Engineer",
+    title: "Lead - Frontend / Full Stack Development (MERN/MEAN) - Multiple Internal Projects",
     location: "Basking Ridge, New Jersey",
     description:
-      "I worked on building the UI for the Chatbot template builder application that empowers business users to create customized chatbots tailored to their requirements/needs/use cases and preferences through various configurable elements.",
+      "I worked on Multiple Internal Projects for both Verizon Postpaid and Prepaid brands such as Tracfone, Straightalk and other Value Brands. I started with building the UI for the Chatbot template builder application.",
     icon: React.createElement(CgWorkAlt),
     date: "Nov 2022 - present",
   },
