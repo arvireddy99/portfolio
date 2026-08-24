@@ -25,7 +25,7 @@ export default function About() {
       </p>
 
       <p>
-      I enjoy playing badminton, swimming, binge-watching movies, and Netflix when not coding. I also enjoy learning new things and technologies and keeping myself updated. I am currently learning about the evolving technologies related to AI & ML and business strategies related to real estate and AgTech.
+      I enjoy playing badminton, swimming, binge-watching movies, and Netflix when not coding. I also enjoy learning new things and technologies and keeping myself updated. I am currently learning about the evolving technologies related to AI & ML.
       </p>
     </motion.section>
   );
